@@ -152,6 +152,18 @@ filter: alpha(opacity=95) !important;
 	background: rgba(204, 204, 204, 0);
 }
 
+.mybutton_green{
+	border: 1px solid #1abc9c;
+	color: #fff;
+	background-color:#1abc9c;
+}
+
+.mybutton_green:hover{
+	border: 1px solid #1abc9c;
+	color: #1abc9c !important;
+	background: rgba(204, 204, 204, 0);
+}
+
 .button_down img {
 width: 50px;
 	

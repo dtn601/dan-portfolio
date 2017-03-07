@@ -4743,7 +4743,7 @@ footer p {
 			text-align: center;
 		}
 		.sub-title{text-align:center}
-		.pull-right {margin-bottom: 40px;}
+		.pull-right, .pull-left {margin-bottom: 40px;}
 		address{margin-top:130px;}
 		.address{text-align:center}
 	}
